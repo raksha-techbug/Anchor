@@ -1,0 +1,21 @@
+{
+  "intro": "I hear you.",
+  "bridge": "Let's look at the evidence.",
+  "ending": "These are facts. Don't let one difficult moment erase them.",
+
+  "proofs": {
+    "not_enough": [
+      "You kept showing up even when things felt like they were falling apart.",
+      "You cleared almost every interview you sat for.",
+      "You don't just dream. You build projects and create opportunities for yourself."
+    ],
+
+    "communication": [
+      "People once mocked your English. Today, you're a published writer and companies trust you to communicate with clients."
+    ],
+
+    "learning": [
+      "You cleared the Infosys exam despite preparing only a small part of the syllabus."
+    ]
+  }
+}
