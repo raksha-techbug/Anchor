@@ -16,6 +16,32 @@
 
     "learning": [
       "You cleared the Infosys exam despite preparing only a small part of the syllabus."
-    ]
+    ],
+
+    "failure": [
+      "A setback has never stopped you from trying again.",
+      "You have turned difficult phases into learning experiences."
+    ],
+
+    "comparison": [
+      "Your journey is not defined by someone else's timeline.",
+      "You have built skills across technology, writing, marketing, and business."
+    ],
+
+    "uncertainty": [
+      "Even when you were unsure, you kept taking action.",
+      "You have repeatedly figured things out by learning and adapting."
+    ],
+
+    "consistency": [
+      "Even when you doubted yourself, you kept showing up instead of giving up."
+    ],
+   
+    "others_doubt_me": [
+  "People not understanding your vision does not mean your vision is wrong.",
+  "You have repeatedly done things others did not expect from you from writing to building projects and creating opportunities.",
+  "Your progress is proof that you can trust yourself even before everyone else understands."
+]
+
   }
 }

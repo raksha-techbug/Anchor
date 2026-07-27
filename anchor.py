@@ -1,3 +1,5 @@
+from brain import classify_emotion
+
 import json
 import random
 
@@ -9,17 +11,9 @@ with open("proofs.json", "r") as file:
     data = json.load(file)
 
     # Decide which category to use
-if "enough" in feeling.lower():
-    category = "not_enough"
+feeling = feeling.lower()
 
-elif "english" in feeling.lower() or "communicat" in feeling.lower():
-    category = "communication"
-
-elif "learn" in feeling.lower() or "study" in feeling.lower():
-    category = "learning"
-
-else:
-    category = None
+category = classify_emotion(feeling)
 
 # Pick 3 random proofs
 # Temporary: always use the "not_enough" category
