@@ -19,10 +19,10 @@ Categories:
   The user doubts their ability to learn, improve, study, or understand something.
 
 - failure
-  The user is upset because of a mistake, failure, rejection, or poor performance.
+  The user is upset because something already went wrong: they failed, made a mistake, were rejected, or feel bad about a past outcome.
 
-- comparison
-  The user believes others are ahead of them or is comparing themselves to other people.
+- consistency
+  The user is struggling to keep going, stay disciplined, stay consistent, or feels like giving up. The focus is persistence, not a past failure.
 
 - others_doubt_me
   The user feels discouraged because other people don't believe in them, their dreams, or their abilities.
